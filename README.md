@@ -1,0 +1,2 @@
+# egit-config
+Configuring EGit 
